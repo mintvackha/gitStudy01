@@ -7,7 +7,7 @@ app.get("/", (req, res)=>{
     
 })
 app.get("/home", (req, res)=>{
-    res.end("<h1>Hello world!@$%^</h1>");
+    res.end("<h1>love fulling me</h1>");
     
 })
 app.get("/profile", (req, res)=>{
